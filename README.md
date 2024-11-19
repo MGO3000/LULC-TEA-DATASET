@@ -9,4 +9,4 @@ Land-cover change is often accompanied by land-use change, altering ecosystem se
 <b>Dataset download</b> <br> Data available at: [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/mariogarciao_alumnado_uvigo_gal/Et4N7b1sjFNJu5bXfvYCdeYBmNiNvAkBzGh1yZ6opIpjkA?e=9VrhDu)
  
 <b>Link to the paper</b><br>
-Not avaialble yet
+https://doi.org/10.1016/j.scitotenv.2024.177507
